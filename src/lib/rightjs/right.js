@@ -16,3 +16,4 @@ exports = module.exports = function rightHandler() {
   };
 
 };
+
